@@ -1,0 +1,13 @@
+tensorflow==2.15.0
+transformers==4.35.0
+matplotlib
+seaborn
+numpy
+pandas
+streamlit
+wordcloud
+datasets
+ipykernel
+nltk
+scikit-learn
+evaluate
